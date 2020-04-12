@@ -1,0 +1,1 @@
+This project was my midterms for CS 105. I programmed this using Scratch 3.0. I implemented this using BInsertion and Bubble Sort Algorithms.
